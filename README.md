@@ -28,5 +28,6 @@ I love clean UI, smooth animations, and modern stacks like **React**, **TypeScri
 ---
 
 ### 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/твоя-ссылка)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:твоя-почта@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/elizabeta-davidov-7871862b7/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/realisereallies)
+
